@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net Core**
 
-- 📫 How to reach me **ahmetftorun@gmail.com**
+- 📫 How to reach me **ahmetfrktorun@gmail.com**
 
 - ⚡ Fun fact **I'm Funny**
 
